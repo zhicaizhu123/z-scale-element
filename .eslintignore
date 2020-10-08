@@ -1,0 +1,5 @@
+/lib/
+/node_module/
+/dist/
+rollup.config.js
+tsconfig.json
